@@ -1,0 +1,29 @@
+body{
+    background-color:#E3516E;
+}
+
+h1{
+    color: antiquewhite;
+    text-align: center;
+}
+
+.circle{
+    height: 0px;
+    width: 0px;
+    
+    border: 170px solid;
+    border-top-color:#FADE8B;
+    border-bottom-color:#F7F3D7;
+    border-left-color:#51B5A9;
+    border-radius: 49%;
+    border-right-color:transparent ;
+    transform: rotate(45deg);
+    
+
+}
+
+.container{
+    margin-left: 590px;
+    margin-top:190px;
+
+}
